@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Minesweeper</string>
+    <string name="game_over">GAME OVER</string>
+    <string name="game_won">GAME WON</string>
+    <string name="no_flags">NO MORE FLAGS</string>
+    <string name="num_flags">%1$s ⚑</string>
+</resources>
